@@ -1,0 +1,13 @@
+﻿  Deneme.cpp
+C:\Users\ASUS\source\repos\Project1\Project1\Deneme.cpp(75,29): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\ASUS\source\repos\Project1\Project1\Deneme.cpp(76,1): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\ASUS\source\repos\Project1\Project1\Deneme.cpp(121,17): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\ASUS\source\repos\Project1\Project1\Deneme.cpp(122,17): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\ASUS\source\repos\Project1\Project1\Deneme.cpp(125,12): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\ASUS\source\repos\Project1\Project1\Deneme.cpp(128,13): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\ASUS\source\repos\Project1\Project1\Deneme.cpp(136,12): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ASUS\source\repos\Project1\Project1\Deneme.cpp(137,12): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ASUS\source\repos\Project1\Project1\Deneme.cpp(182,19): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\ASUS\source\repos\Project1\Project1\Deneme.cpp(224,25): warning C4305: '-=': 'double' iken 'float' olarak kesildi
+C:\Users\ASUS\source\repos\Project1\Project1\Deneme.cpp(228,25): warning C4305: '+=': 'double' iken 'float' olarak kesildi
+  Project1.vcxproj -> C:\Users\ASUS\source\repos\Project1\x64\Debug\Project1.exe
